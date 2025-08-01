@@ -4,4 +4,4 @@
 
 ## DAY2 ==== (4.*Working with Lists*, 5.*If conditionals*, 6.*Dictionaries*) === 31-07-2025
 
-## DAY3 ==== (6.*Dictionaries(Nesting)*,7.*Input and While Loops*) === 01-08-2025
+## DAY3 ==== (6.*Dictionaries(Nesting)*,7.*Input and While Loops*,8.*Functions*) === 01-08-2025
